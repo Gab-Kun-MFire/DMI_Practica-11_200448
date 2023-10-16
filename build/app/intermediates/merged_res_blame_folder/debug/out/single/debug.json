@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.dmi_practica10_200448.app-merged_res-11:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.dmi_practica10_200448.app-main-5:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.dmi_practica10_200448.app-merged_res-11:/mipmap-hdpi_chic.jpg.flat",
+        "source": "com.example.dmi_practica10_200448.app-main-5:/mipmap-hdpi/chic.jpg"
+    },
+    {
+        "merged": "com.example.dmi_practica10_200448.app-merged_res-11:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.dmi_practica10_200448.app-main-5:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.dmi_practica10_200448.app-merged_res-11:/mipmap-mdpi_chic.jpg.flat",
+        "source": "com.example.dmi_practica10_200448.app-main-5:/mipmap-mdpi/chic.jpg"
+    },
+    {
+        "merged": "com.example.dmi_practica10_200448.app-merged_res-11:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.dmi_practica10_200448.app-main-5:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.dmi_practica10_200448.app-merged_res-11:/mipmap-xxhdpi_chic.jpg.flat",
+        "source": "com.example.dmi_practica10_200448.app-main-5:/mipmap-xxhdpi/chic.jpg"
+    },
+    {
+        "merged": "com.example.dmi_practica10_200448.app-merged_res-11:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.dmi_practica10_200448.app-main-5:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.dmi_practica10_200448.app-merged_res-11:/drawable_launch_background.xml.flat",
+        "source": "com.example.dmi_practica10_200448.app-main-5:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.example.dmi_practica10_200448.app-merged_res-11:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.dmi_practica10_200448.app-main-5:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.dmi_practica10_200448.app-merged_res-11:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.dmi_practica10_200448.app-main-5:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.dmi_practica10_200448.app-merged_res-11:/mipmap-xhdpi_chic.jpg.flat",
+        "source": "com.example.dmi_practica10_200448.app-main-5:/mipmap-xhdpi/chic.jpg"
+    },
+    {
+        "merged": "com.example.dmi_practica10_200448.app-merged_res-11:/mipmap-xxxhdpi_chic.jpg.flat",
+        "source": "com.example.dmi_practica10_200448.app-main-5:/mipmap-xxxhdpi/chic.jpg"
+    }
+]
