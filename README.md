@@ -75,7 +75,7 @@ En conjunto, estos archivos forman parte de la interfaz de usuario de la aplicac
   <img src="./assets/mm.png" width="200" alt="Captura de Pantalla 1">
   <img src="./assets/pp.png" width="200" alt="Captura de Pantalla 2">
   <img src="./assets/nn.png" width="200" alt="Captura de Pantalla 2">
-  <img src="./assets/mm.png" width="200" alt="Captura de Pantalla 2">
+  <img src="./assets/mm.jpng" width="200" alt="Captura de Pantalla 2">
 </p>
 
 ## Instalación
