@@ -72,10 +72,10 @@ En conjunto, estos archivos forman parte de la interfaz de usuario de la aplicac
 
 ## Capturas de Pantalla
 <p align="center">
-  <img src="./assets/a.jpeg" width="200" alt="Captura de Pantalla 1">
-  <img src="./assets/b.jpg" width="200" alt="Captura de Pantalla 2">
-  <img src="./assets/c.jpg" width="200" alt="Captura de Pantalla 2">
-  <img src="./assets/d.jpg" width="200" alt="Captura de Pantalla 2">
+  <img src="./assets/mm.jpeg" width="200" alt="Captura de Pantalla 1">
+  <img src="./assets/pp.jpg" width="200" alt="Captura de Pantalla 2">
+  <img src="./assets/nn.jpg" width="200" alt="Captura de Pantalla 2">
+  <img src="./assets/mm.jpg" width="200" alt="Captura de Pantalla 2">
 </p>
 
 ## Instalación
